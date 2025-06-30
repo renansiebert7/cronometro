@@ -15,9 +15,9 @@ https://renansiebert7.github.io/cronometro/
 
 ## ✅ Funcionalidades
 
-- Início da contagem com clique no botão "Iniciar"
-- Pausa da contagem com o botão "Pausar"
-- Reset total com o botão "Zerar"
+- Início da contagem com clique no botão "Start"
+- Pausa da contagem com o botão "Stop"
+- Reset total com o botão "Reset"
 - Interface limpa e responsiva
 
 ---
