@@ -9,7 +9,7 @@ O cronômetro permite iniciar, pausar e zerar a contagem com precisão e simplic
 
 https://renansiebert7.github.io/cronometro/
 
-<img src="https://github.com/renansiebert7/cronometro/blob/master/3.png?raw=true">
+<img src="[https://github.com/renansiebert7/cronometro/blob/master/3.png?raw=true](https://github.com/renansiebert7/cronometro/blob/master/README.png?raw=true)">
 
 ---
 
