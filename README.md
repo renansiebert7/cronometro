@@ -6,8 +6,8 @@ O cronômetro permite iniciar, pausar e zerar a contagem com precisão e simplic
 ---
 
 ## 📸 Demonstração
+<a href="https://renansiebert7.github.io/cronometro/">👉 Clique aqui para visualizar</a>
 
-https://renansiebert7.github.io/cronometro/
 
 <img src="https://github.com/renansiebert7/cronometro/blob/master/cronometro%20read%20me%20img.png?raw=true">
 
